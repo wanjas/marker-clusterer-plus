@@ -1,3 +1,5 @@
+## This fork is made to allow hack to work with cluster dynamic styles
+
 Marker-Clusterer-Plus
 ===================
 
